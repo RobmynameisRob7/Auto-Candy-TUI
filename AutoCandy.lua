@@ -1,7 +1,3 @@
--- ✅ Script Auto-Teleport + Camera Spin (Loadstring Ready)
--- Khi up lên GitHub, chỉ cần gọi:
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/RobmynameisRob7/Auto-Candy-TUI/refs/heads/main/AutoCandy.lua"))()
-
 local httpGetUrl = "https://raw.githubusercontent.com/RobmynameisRob7/Auto-Candy-TUI/refs/heads/main/AutoCandy.lua" -- 🟢 đổi link GitHub của ông
 
 -- Tự động tải code từ link (hoặc dùng nội bộ nếu không có mạng)
